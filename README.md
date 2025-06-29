@@ -1,7 +1,3 @@
-Here’s a complete `README.html` for your GitHub portfolio project covering **all six tasks** of your *Business Analytics in Practice* module. This is structured to give a professional overview, detailed summaries, and clear academic framing:
-
----
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
