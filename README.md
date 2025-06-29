@@ -1,9 +1,7 @@
 # Business Analytics in Practice – MSc Portfolio
 
-**Author:** Fahid Ansar (418940)  
+**Author:** Fahid Ansar  
 **Course:** MSc Business Analytics  
-**Module:** BNM863J – Business Analytics in Practice  
-**Submission Date:** 27 June 2025
 
 ---
 
